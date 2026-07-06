@@ -1,0 +1,889 @@
+Date,Session_ID,Exercise,Set_number,Weight_kg,Reps,RPE,Workout_type,Volume_kg,Est_1RM
+03-04-2026,S_001,DB Incline Bench,1,20,6,4,Push,120,
+03-04-2026,S_001,DB Incline Bench,2,32.5,6,8,Push,195,39
+03-04-2026,S_001,DB Incline Bench,3,32.5,4,9,Push,130,
+03-04-2026,S_001,DB Incline Bench,4,27.5,8,9,Push,220,
+03-04-2026,S_001,Seated Shoulder Press,1,40,8,6,Push,320,
+03-04-2026,S_001,Seated Shoulder Press,2,45,8,7,Push,360,
+03-04-2026,S_001,Seated Shoulder Press,3,48,6,8,Push,288,57.6
+03-04-2026,S_001,Seated Cable Chest Fly,1,18,5,9,Push,90,21
+03-04-2026,S_001,Seated Cable Chest Fly,2,16,6,9,Push,96,
+03-04-2026,S_001,Seated Cable Chest Fly,3,16,5,10,Push,80,
+03-04-2026,S_001,French Press,1,29,8,6.5,Push,232,
+03-04-2026,S_001,French Press,2,32,8,9,Push,256,40.53333333
+03-04-2026,S_001,French Press,3,34,5,10,Push,170,
+03-04-2026,S_001,Seated Lateral Raise,1,7,8,8,Push,56,
+03-04-2026,S_001,Seated Lateral Raise,2,7,8,8.5,Push,56,8.866666667
+03-04-2026,S_001,SA Tricep Pushdown,1,9,9,3,Push,81,
+03-04-2026,S_001,SA Tricep Pushdown,2,12,8,9,Push,96,15.2
+03-04-2026,S_001,SA Tricep Pushdown,3,12,6,10,Push,72,
+05-04-2026,S_002,Deadlift,1,60,6,6,Pull,360,
+05-04-2026,S_002,Deadlift,2,70,6,6,Pull,420,
+05-04-2026,S_002,Deadlift,3,70,6,7,Pull,420,
+05-04-2026,S_002,Deadlift,4,75,6,7.5,Pull,450,90
+05-04-2026,S_002,SA Preacher Curl,1,12.5,8,7.5,Pull,100,
+05-04-2026,S_002,SA Preacher Curl,2,12.5,8,7.5,Pull,100,
+05-04-2026,S_002,SA Preacher Curl,3,12.5,10,8,Pull,125,16.66666667
+05-04-2026,S_002,Back Extension,1,20,8,8.5,Pull,160,
+05-04-2026,S_002,Back Extension,2,20,8,8.75,Pull,160,
+05-04-2026,S_002,Back Extension,3,25,8,8,Pull,200,31.66666667
+05-04-2026,S_002,Lat Pulldown,1,55,8,7,Pull,440,
+05-04-2026,S_002,Lat Pulldown,2,73,8,8.5,Pull,584,
+05-04-2026,S_002,Lat Pulldown,3,82,6,9.25,Pull,492,98.4
+05-04-2026,S_002,SA Cable Curl,1,13.5,8,7.25,Pull,108,
+05-04-2026,S_002,SA Cable Curl,2,15,6,8,Pull,90,
+05-04-2026,S_002,SA Cable Curl,3,16.5,5,9,Pull,82.5,19.25
+05-04-2026,S_002,Wrist Curl,1,7.5,12,7.5,Pull,90,
+05-04-2026,S_002,Wrist Curl,2,7.5,12,8,Pull,90,
+05-04-2026,S_002,Wrist Curl,3,7.5,12,8,Pull,90,10.5
+06-04-2026,S_003,Bench Press,1,20,12,1,Push,240,
+06-04-2026,S_003,Bench Press Pause,2,60,6,5,Push,360,
+06-04-2026,S_003,Bench Press,3,70,2,2,Push,140,
+06-04-2026,S_003,Bench Press,4,80,6,9,Push,480,96
+06-04-2026,S_003,Bench Press,5,80,2,10,Push,160,
+06-04-2026,S_003,Bench Press,6,70,6,10,Push,420,
+06-04-2026,S_003,Seated DB Shoulder Press,1,15,6,4,Push,90,
+06-04-2026,S_003,Seated DB Shoulder Press,2,20,6,7,Push,120,
+06-04-2026,S_003,Seated DB Shoulder Press,3,22.5,6,8.25,Push,135,
+06-04-2026,S_003,Seated DB Shoulder Press,4,22.5,6,9.5,Push,135,27
+06-04-2026,S_003,SA Tricep Pushdown,1,12,8,7,Push,96,
+06-04-2026,S_003,SA Tricep Pushdown,2,12,8,8.5,Push,96,15.2
+06-04-2026,S_003,SA Tricep Pushdown,3,10.5,8,8,Push,84,
+06-04-2026,S_003,Incline DB Chest Fly,1,22.5,8,5,Push,180,
+06-04-2026,S_003,Incline DB Chest Fly,2,22.5,8,7,Push,180,
+06-04-2026,S_003,Incline DB Chest Fly,3,22.5,8,8,Push,180,28.5
+06-04-2026,S_003,Seated Lateral Raise,1,9,3,9,Push,27,9.9
+06-04-2026,S_003,Seated Lateral Raise,2,7,8,7,Push,56,
+06-04-2026,S_003,Seated Lateral Raise,3,7,8,7.5,Push,56,
+06-04-2026,S_003,Preacher Curl,1,29,6,5,Push,174,
+06-04-2026,S_003,Preacher Curl,2,34,8,7,Push,272,
+06-04-2026,S_003,Preacher Curl,3,39,8,9,Push,312,49.4
+07-04-2026,S_004,RDL,1,60,8,4,Legs,480,
+07-04-2026,S_004,RDL,2,80,6,6,Legs,480,
+07-04-2026,S_004,RDL,3,90,6,7,Legs,540,
+07-04-2026,S_004,RDL,4,100,6,8,Legs,600,120
+07-04-2026,S_004,Bulgarian Split Squat Cable,1,16,8,7,Legs,128,
+07-04-2026,S_004,Bulgarian Split Squat Cable,2,20,8,8.5,Legs,160,
+07-04-2026,S_004,Bulgarian Split Squat Cable,3,25,8,9.5,Legs,200,31.66666667
+07-04-2026,S_004,Plate Loaded Calf Raise,1,60,8,6,Legs,480,
+07-04-2026,S_004,Plate Loaded Calf Raise,2,65,8,8,Legs,520,82.33333333
+07-04-2026,S_004,Plate Loaded Calf Raise,3,60,11,9,Legs,660,
+07-04-2026,S_004,Single Leg Hamstring Curl,1,27,8,8,Legs,216,
+07-04-2026,S_004,Single Leg Hamstring Curl,2,27,12,9,Legs,324,
+07-04-2026,S_004,Single Leg Hamstring Curl,3,32,12,10,Legs,384,44.8
+07-04-2026,S_004,Leg Extension,1,64,8,8,Legs,512,
+07-04-2026,S_004,Leg Extension,2,82,8,9,Legs,656,
+07-04-2026,S_004,Leg Extension,3,91,8,10,Legs,728,115.2666667
+09-04-2026,S_005,Bench Press,1,60,4,4,Push,240,
+09-04-2026,S_005,Bench Press,2,80,3,8,Push,240,
+09-04-2026,S_005,Bench Press,3,80,3,7,Push,240,88
+09-04-2026,S_005,Bench Press,4,70,4,8,Push,280,
+09-04-2026,S_005,French Press,1,29,8,7.5,Push,232,
+09-04-2026,S_005,French Press,2,29,9,8.5,Push,261,
+09-04-2026,S_005,French Press,3,32,8,8,Push,256,40.53333333
+09-04-2026,S_005,Seated Chest Fly,1,55,8,8,Push,440,
+09-04-2026,S_005,Seated Chest Fly,2,64,8,9,Push,512,81.06666667
+09-04-2026,S_005,Seated Chest Fly,3,64,4,9,Push,256,
+09-04-2026,S_005,Preacher Curl,1,39,4,8,Push,156,
+09-04-2026,S_005,Preacher Curl,2,42,3,8,Push,126,
+09-04-2026,S_005,Preacher Curl,3,44,3,9,Push,132,48.4
+09-04-2026,S_005,Wrist Curl,1,10,12,6,Push,120,
+09-04-2026,S_005,Wrist Curl,2,10,12,8,Push,120,
+09-04-2026,S_005,Wrist Curl,3,12.5,8,7,Push,100,15.83333333
+09-04-2026,S_005,SA Cable Curl,1,15,8,8,Push,120,19
+09-04-2026,S_005,SA Cable Curl,2,12,12,9,Push,144,
+10-04-2026,S_006,Deadlift,1,70,6,4,Pull,420,
+10-04-2026,S_005,Deadlift,2,90,6,7.5,Pull,540,
+10-04-2026,S_005,Deadlift,3,95,6,8.5,Pull,570,114
+10-04-2026,S_005,Preacher Curl,1,39,6,7,Pull,234,
+10-04-2026,S_005,Preacher Curl,2,49,1,9,Pull,49,50.63333333
+10-04-2026,S_005,Preacher Curl,3,39,6,9,Pull,234,
+10-04-2026,S_005,Seated Row,1,59,8,6,Pull,472,
+10-04-2026,S_005,Seated Row,2,68,8,8,Pull,544,
+10-04-2026,S_005,Seated Row,3,77,8,9,Pull,616,97.53333333
+10-04-2026,S_005,DB Hammer Curl,1,12.5,8,6,Pull,100,
+10-04-2026,S_005,DB Hammer Curl,2,12.5,8,8,Pull,100,
+10-04-2026,S_005,DB Hammer Curl,3,15,5,9,Pull,75,
+10-04-2026,S_005,DB Hammer Curl,4,15,6,8,Pull,90,18
+10-04-2026,S_005,Cable SA Pulldown,1,19.5,8,6,Pull,156,
+10-04-2026,S_005,Cable SA Pulldown,2,22.5,8,7,Pull,180,
+10-04-2026,S_005,Cable SA Pulldown,3,25.5,8,9,Pull,204,32.3
+10-04-2026,S_005,Rope Cable Curl,1,25.5,8,9,Pull,204,32.3
+10-04-2026,S_005,Rope Cable Curl,2,24,6,10,Pull,144,
+10-04-2026,S_005,Rope Cable Curl,3,21,7,10,Pull,147,
+13-04-2026,S_006,Bench Press,1,40,12,2,Arms,480,
+13-04-2026,S_006,Bench Press,2,60,8,5,Arms,480,
+13-04-2026,S_006,Bench Press,3,70,6,6,Arms,420,
+13-04-2026,S_006,Bench Press,4,80,5,9,Arms,400,93.33333333
+13-04-2026,S_006,Bench Press,5,70,6,9,Arms,420,
+13-04-2026,S_006,Bench Press,6,60,7,10,Arms,420,
+13-04-2026,S_006,Lat Pulldown,1,64,6,7,Arms,384,
+13-04-2026,S_006,Lat Pulldown,2,82,6,8,Arms,492,
+13-04-2026,S_006,Lat Pulldown,3,91,4,10,Arms,364,103.1333333
+13-04-2026,S_006,French Press,1,29,12,4,Arms,348,
+13-04-2026,S_006,French Press,2,34,8,7,Arms,272,
+13-04-2026,S_006,French Press,3,37,8,9.5,Arms,296,46.86666667
+13-04-2026,S_006,Preacher Curl,1,32,8,7,Arms,256,
+13-04-2026,S_006,Preacher Curl,2,39,8,9,Arms,312,
+13-04-2026,S_006,Preacher Curl,3,44,4,10,Arms,176,49.86666667
+13-04-2026,S_006,Wrist Curl,1,12.5,8,7.5,Arms,100,15.83333333
+13-04-2026,S_006,Wrist Curl,2,10,12,9,Arms,120,
+13-04-2026,S_006,Wrist Curl,3,10,12,10,Arms,120,14
+14-04-2026,S_007,DB Incline Bench Press,1,20,6,5,Push,120,
+14-04-2026,S_007,DB Incline Bench Press,2,32.5,6,8,Push,195,
+14-04-2026,S_007,DB Incline Bench Press,3,32.5,6,9,Push,195,39
+14-04-2026,S_007,DB Incline Bench Press,4,32.5,3,10,Push,97.5,
+14-04-2026,S_007,Preacher Hammer Curl,1,12.5,8,8,Push,100,
+14-04-2026,S_007,Preacher Hammer Curl,2,12.5,8,8,Push,100,
+14-04-2026,S_007,Preacher Hammer Curl,3,15,6,9,Push,90,18
+14-04-2026,S_007,Chest Press Machine,1,59,8,6,Push,472,
+14-04-2026,S_007,Chest Press Machine,2,77,7,10,Push,539,94.96666667
+14-04-2026,S_007,Chest Press Machine,3,68,8,7,Push,544,
+15-04-2026,S_008,Deadlift,1,70,6,6,Full Body,420,
+15-04-2026,S_008,Deadlift,2,70,8,6,Full Body,560,
+15-04-2026,S_008,Deadlift,3,80,8,7.5,Full Body,640,
+15-04-2026,S_008,Bench Press,1,60,6,8,Full Body,360,
+15-04-2026,S_008,Bench Press,2,65,6,9,Full Body,390,
+15-04-2026,S_008,Bench Press,3,60,12,8,Full Body,720,84
+15-04-2026,S_008,Bulgarian Split Squat Cable,1,20,8,9,Full Body,160,
+15-04-2026,S_008,Bulgarian Split Squat Cable,2,23,6,9,Full Body,138,
+15-04-2026,S_008,Bulgarian Split Squat Cable,3,27,6,9,Full Body,162,32.4
+15-04-2026,S_008,Preacher Curl,1,29,6,7,Full Body,174,
+15-04-2026,S_008,Preacher Curl,2,39,8,9,Full Body,312,49.4
+15-04-2026,S_008,Preacher Curl,3,42,4,9,Full Body,168,
+15-04-2026,S_008,Preacher Curl,4,29,12,8,Full Body,348,
+15-04-2026,S_008,Wrist Curl,1,10,12,9,Full Body,120,
+15-04-2026,S_008,Wrist Curl,2,10,12,9,Full Body,120,
+15-04-2026,S_008,Wrist Curl,3,12,12,10,Full Body,144,16.8
+18-04-2026,S_009,DB Incline Bench Press,1,20,8,4,Push,160,
+18-04-2026,S_009,DB Incline Bench Press,2,32.5,6,8,Push,195,
+18-04-2026,S_009,DB Incline Bench Press,3,32.5,7,9,Push,227.5,40.08333333
+18-04-2026,S_009,DB Incline Bench Press,4,32.5,4,9,Push,130,
+18-04-2026,S_009,Cable Lat Raise,1,9,4,9.5,Push,36,10.2
+18-04-2026,S_009,Cable Lat Raise,2,7,8,9.5,Push,56,
+18-04-2026,S_009,Cable Lat Raise,3,7,8,8.5,Push,56,8.866666667
+18-04-2026,S_009,Cable Chest Fly,1,18,6,8,Push,108,
+18-04-2026,S_009,Cable Chest Fly,2,18,6,9,Push,108,
+18-04-2026,S_009,Cable Chest Fly,3,18,6,9,Push,108,21.6
+18-04-2026,S_009,French Press,1,29,8,8,Push,232,
+18-04-2026,S_009,French Press,2,32,8,9,Push,256,
+18-04-2026,S_009,French Press,3,32,8,10,Push,256,40.53333333
+18-04-2026,S_009,Preacher Curl,1,32,8,7,Push,256,
+18-04-2026,S_009,Preacher Curl,2,39,6,9,Push,234,
+18-04-2026,S_009,Preacher Curl,3,42,6,9,Push,252,50.4
+18-04-2026,S_009,Wrist Curl,1,12.5,8,8,Push,100,15.83333333
+18-04-2026,S_009,Wrist Curl,2,10,12,8,Push,120,
+18-04-2026,S_009,Wrist Curl,3,10,12,9,Push,120,
+22-04-2026,S_010,Bench Press,1,20,8,4,Arms,160,
+22-04-2026,S_010,Bench Press,2,60,8,5,Arms,480,
+22-04-2026,S_010,Bench Press,3,80,3,9,Arms,240,
+22-04-2026,S_010,Bench Press,4,80,3,9.5,Arms,240,88
+22-04-2026,S_010,Bench Press,5,60,8,8,Arms,480,
+22-04-2026,S_010,Bench Press,6,60,6,9,Arms,360,
+22-04-2026,S_010,Bench Press,7,60,8,9.5,Arms,480,76
+22-04-2026,S_010,Preacher Curl,1,29,8,5,Arms,232,
+22-04-2026,S_010,Preacher Curl,2,39,8,8,Arms,312,
+22-04-2026,S_010,Preacher Curl,3,42,6,9,Arms,252,50.4
+22-04-2026,S_010,Preacher Curl,4,42,4,10,Arms,168,
+22-04-2026,S_010,Preacher Curl,5,29,8,10,Arms,232,
+22-04-2026,S_010,Wrist Curl,1,10,12,6,Arms,120,
+22-04-2026,S_010,Wrist Curl,2,10,12,7,Arms,120,
+22-04-2026,S_010,Wrist Curl,3,10,12,7,Arms,120,14
+23-04-2026,S_011,Seated Shoulder Press,1,20,12,4,Push,240,
+23-04-2026,S_011,Seated Shoulder Press,2,40,8,7,Push,320,
+23-04-2026,S_011,Seated Shoulder Press,3,45,6,8,Push,270,
+23-04-2026,S_011,Seated Shoulder Press,4,45,6,9,Push,270,54
+23-04-2026,S_011,Incline DB Chest Fly,1,20,8,7,Push,160,
+23-04-2026,S_011,Incline DB Chest Fly,2,25,6,8,Push,150,
+23-04-2026,S_011,Incline DB Chest Fly,3,25,6,8,Push,150,30
+23-04-2026,S_011,DA C. Tricep Pushdown,1,22.5,12,7,Push,270,
+23-04-2026,S_011,DA C. Tricep Pushdown,2,24,12,9,Push,288,
+23-04-2026,S_011,DA C. Tricep Pushdown,3,24,12,10,Push,288,33.6
+23-04-2026,S_011,Cable Lat Raise,1,7,12,9,Push,84,
+23-04-2026,S_011,Cable Lat Raise,2,7,12,9.5,Push,84,9.8
+23-04-2026,S_011,Chest Press Machine,1,68,6,8,Push,408,
+23-04-2026,S_011,Chest Press Machine,2,77,6,9,Push,462,
+23-04-2026,S_011,Chest Press Machine,3,86,6,10,Push,516,103.2
+23-04-2026,S_011,Preacher Curl,1,44,6,9,Push,264,52.8
+23-04-2026,S_011,Preacher Curl,2,39,6,8.5,Push,234,
+23-04-2026,S_011,Preacher Curl,3,29,6,10,Push,174,
+24-04-2026,S_012,Deadlift,1,70,8,7,Full Body,560,
+24-04-2026,S_012,Deadlift,2,90,6,7,Full Body,540,
+24-04-2026,S_012,Deadlift,3,110,4,8,Full Body,440,124.6666667
+24-04-2026,S_012,Deadlift,4,110,3,9,Full Body,330,
+24-04-2026,S_012,Bench Press,1,60,12,7,Full Body,720,
+24-04-2026,S_012,Bench Press,2,80,6,9,Full Body,480,96
+24-04-2026,S_012,Bench Press,3,85,3,8.5,Full Body,255,
+24-04-2026,S_012,Bench Press,4,90,1,8,Full Body,90,
+24-04-2026,S_012,Lat Pulldown,1,64,6,8,Full Body,384,
+24-04-2026,S_012,Lat Pulldown,2,75,6,8.5,Full Body,450,
+24-04-2026,S_012,Lat Pulldown,3,82,6,9.5,Full Body,492,98.4
+24-04-2026,S_012,French Press,1,32,12,9,Full Body,384,44.8
+24-04-2026,S_012,French Press,2,32,8,9,Full Body,256,
+24-04-2026,S_012,Preacher Curl,1,32,8,8,Full Body,256,
+24-04-2026,S_012,Preacher Curl,2,32,10,8,Full Body,320,42.66666667
+27-04-2026,S_013,Deadlift,1,70,6,5,Full Body,420,
+27-04-2026,S_013,Deadlift,2,110,3,8,Full Body,330,
+27-04-2026,S_013,Deadlift,3,110,3,9,Full Body,330,
+27-04-2026,S_013,DB Incline Bench Press,1,25,6,4,Full Body,150,
+27-04-2026,S_013,DB Incline Bench Press,2,32.5,6,7,Full Body,195,
+27-04-2026,S_013,DB Incline Bench Press,3,35,5,10,Full Body,175,40.83333333
+27-04-2026,S_013,DB Bulgarian Split Squat,1,20,6,8,Full Body,120,
+27-04-2026,S_013,DB Bulgarian Split Squat,2,25,6,10,Full Body,150,30
+27-04-2026,S_013,DB Hammer Curl,1,17.5,6,9,Full Body,105,21
+27-04-2026,S_013,DB Hammer Curl,2,15,8,8.5,Full Body,120,
+27-04-2026,S_013,DB Hammer Curl,3,15,8,9.5,Full Body,120,
+30-04-2026,S_014,Deadlift,1,70,6,4,Full Body,420,
+30-04-2026,S_014,Deadlift,2,110,3,8,Full Body,330,
+30-04-2026,S_014,Deadlift,3,130,1,9,Full Body,130,134.3333333
+30-04-2026,S_014,Deadlift,4,70,4,7,Full Body,280,
+30-04-2026,S_014,Deadlift,5,70,6,7,Full Body,420,
+30-04-2026,S_014,Bench Press,1,60,3,3,Full Body,180,
+30-04-2026,S_014,Bench Press,2,70,3,5,Full Body,210,
+30-04-2026,S_014,Bench Press,3,80,2,6,Full Body,160,
+30-04-2026,S_014,Bench Press,4,90,1,7,Full Body,90,
+30-04-2026,S_014,Bench Press,5,100,1,9,Full Body,100,103.3333333
+30-04-2026,S_014,Preacher Curl,1,29,8,7,Full Body,232,
+30-04-2026,S_014,Preacher Curl,2,34,8,8,Full Body,272,
+30-04-2026,S_014,Preacher Curl,3,34,8,9,Full Body,272,43.06666667
+30-04-2026,S_014,SA Tricep Pushdown,1,14,10,8,Full Body,140,
+30-04-2026,S_014,SA Tricep Pushdown,2,14,10,9,Full Body,140,18.66666667
+30-04-2026,S_014,SA Tricep Pushdown,3,11,12,8,Full Body,132,
+05-05-2026,S_015,Deadlift,1,70,8,5,Legs,560,
+05-05-2026,S_015,Deadlift,2,100,3,8,Legs,300,
+05-05-2026,S_015,Deadlift,3,120,1,8,Legs,120,
+05-05-2026,S_015,Deadlift,4,140,0,10,Legs,0,
+05-05-2026,S_015,Deadlift,5,120,3,10,Legs,360,132
+05-05-2026,S_015,Bench Press,1,60,8,5,Legs,480,
+05-05-2026,S_015,Bench Press,2,80,2,8,Legs,160,
+05-05-2026,S_015,Bench Press,3,90,2,9.5,Legs,180,96
+05-05-2026,S_015,Good Mornings,1,20,8,1,Legs,160,
+05-05-2026,S_015,Good Mornings,2,40,12,4,Legs,480,56
+05-05-2026,S_015,Back Extension,1,25,6,8,Legs,150,
+05-05-2026,S_015,Back Extension,2,30,8,9,Legs,240,38
+05-05-2026,S_015,Calf Raise,1,50,8,8,Legs,400,
+05-05-2026,S_015,Calf Raise,2,55,10,8.5,Legs,550,73.33333333
+05-05-2026,S_015,Calf Raise,3,55,8,8,Legs,440,
+05-05-2026,S_015,Leg Extension,1,73,8,8,Legs,584,
+05-05-2026,S_015,Leg Extension,2,82,10,9.5,Legs,820,109.3333333
+07-05-2026,S_016,Deadlift,1,70,8,6,Pull,560,
+07-05-2026,S_016,Deadlift,2,70,8,7,Pull,560,
+07-05-2026,S_016,Deadlift,3,90,8,8,Pull,720,
+07-05-2026,S_016,BB Row,1,70,6,9,Pull,420,
+07-05-2026,S_016,BB Row,2,70,6,8,Pull,420,
+07-05-2026,S_016,BB Row,3,70,6,9,Pull,420,84
+07-05-2026,S_016,BB Shrug,1,70,12,8,Pull,840,
+07-05-2026,S_016,BB Shrug,2,70,12,8,Pull,840,
+07-05-2026,S_016,BB Shrug,3,70,12,8,Pull,840,98
+07-05-2026,S_016,RDL,1,70,8,8,Pull,560,
+07-05-2026,S_016,RDL,2,80,8,8,Pull,640,
+07-05-2026,S_016,RDL,3,90,8,9,Pull,720,114
+07-05-2026,S_016,Lat Pulldown,1,45,8,8,Pull,360,
+07-05-2026,S_016,Lat Pulldown,2,64,8,8,Pull,512,
+07-05-2026,S_016,Lat Pulldown,3,82,6,9,Pull,492,98.4
+07-05-2026,S_016,SA Cable Curl,1,15,8,9,Pull,120,19
+07-05-2026,S_016,SA Cable Curl,2,13.5,8,9,Pull,108,
+07-05-2026,S_016,SA Cable Curl,3,12,8,8.5,Pull,96,
+07-05-2026,S_016,Cable Back Fly,1,7,10,9,Pull,70,9.333333333
+07-05-2026,S_016,Cable Back Fly,2,5,16,8,Pull,80,
+07-05-2026,S_016,Cable Back Fly,3,7,7,10,Pull,49,
+07-05-2026,S_016,Preacher Curl,1,34,8,9,Pull,272,
+07-05-2026,S_016,Preacher Curl,2,34,8,10,Pull,272,
+07-05-2026,S_016,Preacher Curl,3,34,8,10,Pull,272,43.06666667
+08-05-2026,S_017,Bench Press,1,60,8,6,Push,480,
+08-05-2026,S_017,Bench Press,2,80,6,9,Push,480,96
+08-05-2026,S_017,Bench Press,3,75,6,9,Push,450,
+08-05-2026,S_017,Bench Press,4,70,6,8,Push,420,
+08-05-2026,S_017,Seated Shoulder Press,1,40,8,8,Push,320,
+08-05-2026,S_017,Seated Shoulder Press,2,43,8,9,Push,344,54.46666667
+08-05-2026,S_017,Seated Shoulder Press,3,43,6,10,Push,258,
+08-05-2026,S_017,French Press,1,32,8,9,Push,256,
+08-05-2026,S_017,French Press,2,32,8,9,Push,256,
+08-05-2026,S_017,French Press,3,32,8,9,Push,256,40.53333333
+08-05-2026,S_017,DB Chest Fly,1,25,6,9,Push,150,30
+08-05-2026,S_017,DB Chest Fly,2,25,6,9,Push,150,
+08-05-2026,S_017,DB Chest Fly,3,25,5,10,Push,125,
+08-05-2026,S_017,Cable Lat Raise,1,9,5,10,Push,45,10.5
+08-05-2026,S_017,Cable Lat Raise,2,7,8,7,Push,56,8.866666667
+08-05-2026,S_017,DA C. Tricep Pushdown,1,22.5,12,6,Push,270,
+08-05-2026,S_017,DA C. Tricep Pushdown,2,24,11,10,Push,264,32.8
+08-05-2026,S_017,DA C. Tricep Pushdown,3,24,7,10,Push,168,
+08-05-2026,S_017,Cable Chest Fly,1,20,5,10,Push,100,23.33333333
+08-05-2026,S_017,Cable Chest Fly,2,18,4,10,Push,72,
+08-05-2026,S_017,DB Preacher Hammer Curl,1,15,8,8,Push,120,
+08-05-2026,S_017,DB Preacher Hammer Curl,2,15,8,7,Push,120,19
+11-05-2026,S_018,Deadlift,1,70,6,6,Pull,420,
+11-05-2026,S_018,Deadlift,2,120,1,7,Pull,120,
+11-05-2026,S_018,Deadlift,3,140,1,9,Pull,140,144.6666667
+11-05-2026,S_018,Deadlift,4,120,3,9,Pull,360,
+11-05-2026,S_018,Preacher Curl,1,29,6,5,Pull,174,
+11-05-2026,S_018,Preacher Curl,2,39,6,8,Pull,234,
+11-05-2026,S_018,Preacher Curl,3,44,4,9,Pull,176,
+11-05-2026,S_018,Preacher Curl,4,49,2,10,Pull,98,52.26666667
+11-05-2026,S_018,Back Extension,1,25,8,6,Pull,200,
+11-05-2026,S_018,Back Extension,2,35,8,7,Pull,280,
+11-05-2026,S_018,Back Extension,3,45,8,9,Pull,360,57
+11-05-2026,S_018,DB Row,1,25,8,6,Pull,200,
+11-05-2026,S_018,DB Row,2,30,8,7,Pull,240,
+11-05-2026,S_018,DB Row,3,35,8,8,Pull,280,44.33333333
+11-05-2026,S_018,Lat Pulldown,1,55,8,6,Pull,440,
+11-05-2026,S_018,Lat Pulldown,2,73,6,8,Pull,438,
+11-05-2026,S_018,Lat Pulldown,3,91,3,10,Pull,273,100.1
+11-05-2026,S_018,DB Hammer Curl,1,17.5,8,9,Pull,140,22.16666667
+11-05-2026,S_018,DB Hammer Curl,2,17.5,7,9,Pull,122.5,
+11-05-2026,S_018,DB Hammer Curl,3,17.5,6,10,Pull,105,
+11-05-2026,S_018,Wrist Curl,1,12.5,10,8,Pull,125,16.66666667
+11-05-2026,S_018,Wrist Curl,2,12.5,8,9,Pull,100,
+13-05-2026,S_019,Deadlift,1,70,8,6,Full Body,560,
+13-05-2026,S_019,Deadlift,2,70,8,6,Full Body,560,
+13-05-2026,S_019,Deadlift,3,70,8,6,Full Body,560,
+13-05-2026,S_019,Deadlift,4,70,8,7,Full Body,560,
+13-05-2026,S_019,Bench Press,1,60,10,6,Full Body,600,
+13-05-2026,S_019,Bench Press,2,80,3,7,Full Body,240,
+13-05-2026,S_019,Bench Press,3,80,3,8,Full Body,240,
+13-05-2026,S_019,Bench Press,4,80,3,9,Full Body,240,88
+15-05-2026,S_020,BB Squat,1,60,8,7,Legs,480,
+15-05-2026,S_020,BB Squat,2,80,4,8,Legs,320,
+15-05-2026,S_020,BB Squat,3,80,4,7,Legs,320,90.66666667
+15-05-2026,S_020,Hang Clean,1,40,8,5,Legs,320,
+15-05-2026,S_020,Hang Clean,2,50,6,5,Legs,300,60
+15-05-2026,S_020,Bench Press,1,60,6,4,Legs,360,
+15-05-2026,S_020,Bench Press,2,70,3,5,Legs,210,
+15-05-2026,S_020,Bench Press,3,80,6,9,Legs,480,96
+15-05-2026,S_020,RDL,1,60,6,6,Legs,360,
+15-05-2026,S_020,RDL,2,80,6,8,Legs,480,
+15-05-2026,S_020,RDL,3,100,6,9,Legs,600,120
+15-05-2026,S_020,Bulgarian Split Squat Cable,1,27,6,8,Legs,162,
+15-05-2026,S_020,Bulgarian Split Squat Cable,2,32,4,9.5,Legs,128,36.26666667
+15-05-2026,S_020,Calf Raise,1,60,8,7,Legs,480,
+15-05-2026,S_020,Calf Raise,2,65,8,8,Legs,520,
+15-05-2026,S_020,Calf Raise,3,70,8,8,Legs,560,88.66666667
+15-05-2026,S_020,Hamstring Curl,1,55,6,6,Legs,330,
+15-05-2026,S_020,Hamstring Curl,2,59,6,7,Legs,354,
+15-05-2026,S_020,Hamstring Curl,3,64,6,9,Legs,384,76.8
+15-05-2026,S_020,Leg Extension,1,82,6,8,Legs,492,
+15-05-2026,S_020,Leg Extension,2,100,6,9,Legs,600,120
+15-05-2026,S_020,Leg Extension,3,73,6,10,Legs,438,
+18-05-2026,S_021,Deadlift,1,70,7,5,Push,490,
+18-05-2026,S_021,Deadlift,2,120,3,7,Push,360,
+18-05-2026,S_021,Deadlift,3,140,1,9,Push,140,144.6666667
+18-05-2026,S_021,Bench Press,1,60,6,6,Push,360,
+18-05-2026,S_021,Bench Press,2,70,1,8,Push,70,
+18-05-2026,S_021,Bench Press,3,90,1,9,Push,90,
+18-05-2026,S_021,Bench Press,4,70,15,10,Push,1050,105
+18-05-2026,S_021,Preacher Curl,1,27,8,4,Push,216,
+18-05-2026,S_021,Preacher Curl,2,39,6,8,Push,234,
+18-05-2026,S_021,Preacher Curl,3,49,4,10,Push,196,55.53333333
+18-05-2026,S_021,Preacher Curl,4,39,6,10,Push,234,
+18-05-2026,S_021,Seated Cable Chest Fly,1,20,6,9,Push,120,
+18-05-2026,S_021,Seated Cable Chest Fly,2,20,6,9,Push,120,24
+18-05-2026,S_021,Seated Cable Chest Fly,3,20,5,9,Push,100,
+18-05-2026,S_021,DA C. Tricep Pushdown,1,22.5,8,6,Push,180,
+18-05-2026,S_021,DA C. Tricep Pushdown,2,25.5,8,7,Push,204,
+18-05-2026,S_021,DA C. Tricep Pushdown,3,27,9,9,Push,243,35.1
+19-05-2026,S_022,Deadlift,1,70,6,5,Pull,420,
+19-05-2026,S_022,Deadlift,2,70,6,5,Pull,420,
+19-05-2026,S_022,Deadlift,3,70,6,6,Pull,420,
+19-05-2026,S_022,BB Row,1,70,6,8,Pull,420,
+19-05-2026,S_022,BB Row,2,70,6,9,Pull,420,84
+19-05-2026,S_022,BB Row,3,50,8,9,Pull,400,
+19-05-2026,S_022,Preacher Curl,1,39,4,8,Pull,156,
+19-05-2026,S_022,Preacher Curl,2,49,2,10,Pull,98,52.26666667
+19-05-2026,S_022,Preacher Curl,3,39,5,9,Pull,195,
+19-05-2026,S_022,Lat Pulldown,1,45,6,6,Pull,270,
+19-05-2026,S_022,Lat Pulldown,2,73,6,9,Pull,438,87.6
+19-05-2026,S_022,Lat Pulldown,3,64,6,8,Pull,384,
+19-05-2026,S_022,DB Hammer Curl,1,17.5,6,8,Pull,105,
+19-05-2026,S_022,DB Hammer Curl,2,17.5,5,10,Pull,87.5,
+19-05-2026,S_022,DB Hammer Curl,3,17.5,8,9,Pull,140,22.16666667
+20-06-2026,S_023,DB Incline Bench Press,1,27.5,6,5,Push,165,
+20-06-2026,S_023,DB Incline Bench Press,2,32.5,6,7,Push,195,
+20-06-2026,S_023,DB Incline Bench Press,3,35,8,10,Push,280,44.33333333
+20-06-2026,S_023,Seated Shoulder Press,1,50,6,8,Push,300,
+20-06-2026,S_023,Seated Shoulder Press,2,50,6,9,Push,300,
+20-06-2026,S_023,Seated Shoulder Press,3,53,5,10,Push,265,61.83333333
+20-06-2026,S_023,French Press,1,29,8,7,Push,232,
+20-06-2026,S_023,French Press,2,34,8,10,Push,272,43.06666667
+20-06-2026,S_023,French Press,3,34,7,10,Push,238,
+20-06-2026,S_023,DB Chest Fly,1,27.5,6,9,Push,165,33
+20-06-2026,S_023,DB Chest Fly,2,27.5,4,10,Push,110,
+20-06-2026,S_023,DB Chest Fly,3,22.5,6,9,Push,135,
+20-06-2026,S_023,DA C. Tricep Pushdown,1,25.5,12,7,Push,306,35.7
+20-06-2026,S_023,DA C. Tricep Pushdown,2,27,8,9,Push,216,
+20-06-2026,S_023,DA C. Tricep Pushdown,3,28.5,6,10,Push,171,
+20-06-2026,S_023,Preacher Curl,1,29,8,8,Push,232,
+20-06-2026,S_023,Preacher Curl,2,29,12,9,Push,348,
+20-06-2026,S_023,Preacher Curl,3,29,12,10,Push,348,
+22-05-2026,S_024,Deadlift,1,70,6,6,Pull,420,
+22-05-2026,S_024,Deadlift,2,110,3,8,Pull,330,
+22-05-2026,S_024,DB Preacher Hammer Curl,1,15,6,8,Pull,90,
+22-05-2026,S_024,DB Preacher Hammer Curl,2,17.5,6,9,Pull,105,
+22-05-2026,S_024,DB Preacher Hammer Curl,3,17.5,6,10,Pull,105,21
+22-05-2026,S_024,Back Extension,1,25,8,8,Pull,200,
+22-05-2026,S_024,Back Extension,2,35,6,10,Pull,210,
+22-05-2026,S_024,Back Extension,3,35,8,9,Pull,280,44.33333333
+22-05-2026,S_024,SA Cable Curl,1,13.5,8,7,Pull,108,
+22-05-2026,S_024,SA Cable Curl,2,15,6,9,Pull,90,
+22-05-2026,S_024,SA Cable Curl,3,15,6,9,Pull,90,18
+22-05-2026,S_024,Seated Row,1,50,8,5,Pull,400,
+22-05-2026,S_024,Seated Row,2,68,6,8,Pull,408,
+22-05-2026,S_024,Seated Row,3,77,6,9,Pull,462,92.4
+22-05-2026,S_024,Lat Pulldown,1,45,8,4,Pull,360,
+22-05-2026,S_024,Lat Pulldown,2,73,6,8,Pull,438,
+22-05-2026,S_024,Lat Pulldown,3,82,6,9,Pull,492,98.4
+22-05-2026,S_024,Preacher Curl,1,39,6,8,Pull,234,46.8
+22-05-2026,S_024,Preacher Curl,2,29,4,10,Pull,116,
+22-05-2026,S_024,Preacher Curl,3,29,7,10,Pull,203,
+23-05-2026,S_025,Deadlift,1,70,3,3,Push,210,
+23-05-2026,S_025,Deadlift,2,70,6,5,Push,420,
+23-05-2026,S_025,Deadlift,3,70,6,6,Push,420,
+23-05-2026,S_025,BB Incline Bench Press,1,60,6,8,Push,360,
+23-05-2026,S_025,BB Incline Bench Press,2,60,6,9,Push,360,
+23-05-2026,S_025,BB Incline Bench Press,3,60,6,9,Push,360,72
+23-05-2026,S_025,SA Cable Pushdown,1,12,6,8,Push,72,
+23-05-2026,S_025,SA Cable Pushdown,2,10.5,12,9,Push,126,14.7
+23-05-2026,S_025,Cable Front Lat Raise,1,10.5,12,7,Push,126,
+23-05-2026,S_025,Cable Front Lat Raise,2,12,10,8,Push,120,
+23-05-2026,S_025,Cable Front Lat Raise,3,12,12,8,Push,144,16.8
+23-05-2026,S_025,Seated Chest Fly,1,64,6,8,Push,384,
+23-05-2026,S_025,Seated Chest Fly,2,68,6,9,Push,408,
+23-05-2026,S_025,Seated Chest Fly,3,73,5,9.5,Push,365,85.16666667
+23-05-2026,S_025,SA Cable Curl,1,12.5,8,8,Push,100,15.83333333
+23-05-2026,S_025,SA Cable Curl,2,10.5,10,9,Push,105,
+23-05-2026,S_025,SA Cable Curl,3,10.5,9,9,Push,94.5,
+25-05-2026,S_026,Bench Press,1,60,6,7,Legs,360,
+25-05-2026,S_026,Bench Press,2,80,5,9,Legs,400,93.33333333
+25-05-2026,S_026,Deadlift,1,70,6,7,Legs,420,
+25-05-2026,S_026,Deadlift,2,70,7,6,Legs,490,
+25-05-2026,S_026,Deadlift,3,80,6,7,Legs,480,
+25-05-2026,S_026,RDL,1,80,6,8,Legs,480,
+25-05-2026,S_026,RDL,2,90,6,8,Legs,540,
+25-05-2026,S_026,RDL,3,100,6,8.5,Legs,600,120
+25-05-2026,S_026,Calf Raise,1,60,8,7,Legs,480,
+25-05-2026,S_026,Calf Raise,2,70,8,7,Legs,560,
+25-05-2026,S_026,Calf Raise,3,80,8,8,Legs,640,
+25-05-2026,S_026,Calf Raise,4,90,8,9,Legs,720,114
+25-05-2026,S_026,Bulgarian Split Squat Cable,1,27,8,9,Legs,216,
+25-05-2026,S_026,Bulgarian Split Squat Cable,2,27,8,10,Legs,216,34.2
+25-05-2026,S_026,Leg Extension,1,82,6,8,Legs,492,
+25-05-2026,S_026,Leg Extension,2,100,8,9,Legs,800,126.6666667
+26-05-2026,S_027,Deadlift,1,70,6,6,Pull,420,
+26-05-2026,S_027,Deadlift,2,90,6,7,Pull,540,
+26-05-2026,S_027,Deadlift,3,110,6,8.5,Pull,660,132
+26-05-2026,S_027,Preacher Curl,1,22,12,4,Pull,264,
+26-05-2026,S_027,Preacher Curl,2,39,6,8,Pull,234,
+26-05-2026,S_027,Preacher Curl,3,42,5,10,Pull,210,49
+26-05-2026,S_027,Preacher Curl,4,39,6,9,Pull,234,
+26-05-2026,S_027,BB Shrug,1,50,12,7,Pull,600,
+26-05-2026,S_027,BB Shrug,2,60,12,8,Pull,720,
+26-05-2026,S_027,BB Shrug,3,60,12,8.5,Pull,720,84
+26-05-2026,S_027,BB Row,1,60,8,8,Pull,480,
+26-05-2026,S_027,BB Row,2,65,8,9,Pull,520,
+26-05-2026,S_027,BB Row,3,65,8,9,Pull,520,82.33333333
+26-05-2026,S_027,Lat Pulldown,1,45,8,3,Pull,360,
+26-05-2026,S_027,Lat Pulldown,2,73,8,8,Pull,584,
+26-05-2026,S_027,Lat Pulldown,3,82,8,8,Pull,656,103.8666667
+26-05-2026,S_027,DB Hammer Curl,1,17.5,6,7,Pull,105,
+26-05-2026,S_027,DB Hammer Curl,2,17.5,6,8,Pull,105,
+26-05-2026,S_027,DB Hammer Curl,3,17.5,8,9,Pull,140,22.16666667
+27-05-2026,S_028,Deadlift,1,70,6,3,Push,420,
+27-05-2026,S_028,Deadlift,2,70,6,4,Push,420,
+27-05-2026,S_028,Deadlift,3,70,6,5,Push,420,
+27-05-2026,S_028,Bench Press,1,60,6,4,Push,360,
+27-05-2026,S_028,Bench Press,2,70,3,6,Push,210,
+27-05-2026,S_028,Bench Press,3,80,2,3,Push,160,
+27-05-2026,S_028,Bench Press,4,90,3,10,Push,270,99
+27-05-2026,S_028,Bench Press,5,60,16,10,Push,960,
+27-05-2026,S_028,Cable Lat Raise,1,6,10,9,Push,60,
+27-05-2026,S_028,Cable Lat Raise,2,6,10,9,Push,60,
+27-05-2026,S_028,Cable Lat Raise,3,6,10,10,Push,60,8
+27-05-2026,S_028,SA Cable Pushdown,1,10.5,10,8,Push,105,14
+27-05-2026,S_028,SA Cable Pushdown,2,7,12,6,Push,84,
+27-05-2026,S_028,SA Cable Pushdown,3,7,12,5,Push,84,
+27-05-2026,S_028,Chest Press Machine,1,79,6,8,Push,474,
+27-05-2026,S_028,Chest Press Machine,2,86,6,9,Push,516,103.2
+27-05-2026,S_028,Chest Press Machine,3,86,5,10,Push,430,
+27-05-2026,S_028,French Press,1,29,8,7,Push,232,
+27-05-2026,S_028,French Press,2,29,10,9,Push,290,
+27-05-2026,S_028,French Press,3,29,12,9,Push,348,40.6
+27-05-2026,S_028,Preacher Curl,1,29,12,8,Push,348,
+28-05-2026,S_029,Deadlift,1,70,6,5,Arms,420,
+28-05-2026,S_029,Deadlift,2,70,6,5,Arms,420,
+28-05-2026,S_029,Deadlift,3,70,6,5,Arms,420,
+28-05-2026,S_029,SA Cable Curl,1,10.5,12,8,Arms,126,
+28-05-2026,S_029,SA Cable Curl,2,10.5,12,9,Arms,126,
+28-05-2026,S_029,SA Cable Curl,3,10.5,12,9,Arms,126,14.7
+28-05-2026,S_029,French Press,1,29,12,7,Arms,348,
+28-05-2026,S_029,French Press,2,32,10,8,Arms,320,
+28-05-2026,S_029,French Press,3,32,10,9,Arms,320,42.66666667
+28-05-2026,S_029,DB Hammer Curl,1,20,6,9,Arms,120,24
+28-05-2026,S_029,DB Hammer Curl,2,20,5,10,Arms,100,
+28-05-2026,S_029,DB Hammer Curl,3,17.5,7,10,Arms,122.5,
+28-05-2026,S_029,DA C. Tricep Pushdown,1,16.5,12,7,Arms,198,
+28-05-2026,S_029,DA C. Tricep Pushdown,2,18,12,8,Arms,216,
+28-05-2026,S_029,DA C. Tricep Pushdown,3,18,12,9,Arms,216,25.2
+28-05-2026,S_029,Preacher Curl,1,29,8,8,Arms,232,
+28-05-2026,S_029,Preacher Curl,2,39,6,6,Arms,234,46.8
+28-05-2026,S_029,Preacher Curl,3,39,4,4,Arms,156,
+30-05-2026,S_030,Deadlift,1,70,6,6,Arms,420,
+30-05-2026,S_030,Deadlift,2,100,6,7.5,Arms,600,
+30-05-2026,S_030,Deadlift,3,140,1,9,Arms,140,
+30-05-2026,S_030,Deadlift,4,140,1,9,Arms,140,144.6666667
+30-05-2026,S_030,DB Incline Bench Press,1,22.5,8,9,Arms,180,
+30-05-2026,S_030,DB Incline Bench Press,2,32.5,6,7,Arms,195,
+30-05-2026,S_030,DB Incline Bench Press,3,32.5,6,9,Arms,195,39
+30-05-2026,S_030,SA Cable Curl,1,10.5,12,9,Arms,126,
+30-05-2026,S_030,SA Cable Curl,2,12.5,12,8.5,Arms,150,17.5
+30-05-2026,S_030,Cable OH Pulldown,1,18.5,12,5,Arms,222,
+30-05-2026,S_030,Cable OH Pulldown,2,22.5,12,6,Arms,270,
+30-05-2026,S_030,Cable OH Pulldown,3,27,10,9,Arms,270,36
+30-05-2026,S_030,DA C. Tricep Pushdown,1,22.5,10,9,Arms,225,
+30-05-2026,S_030,DA C. Tricep Pushdown,2,22.5,12,9,Arms,270,31.5
+30-05-2026,S_030,DA C. Tricep Pushdown,3,19.5,12,8,Arms,234,
+01-06-2026,S_031,Deadlift,1,70,6,5,Arms,420,
+01-06-2026,S_031,Deadlift,2,100,6,7.5,Arms,600,
+01-06-2026,S_031,Deadlift,3,120,3,7,Arms,360,132
+01-06-2026,S_031,Bench Press,1,60,6,6,Arms,360,
+01-06-2026,S_031,Bench Press,2,80,6,9,Arms,480,96
+01-06-2026,S_031,Bench Press,3,80,5,9.5,Arms,400,
+01-06-2026,S_031,Bench Press,4,60,12,8,Arms,720,
+01-06-2026,S_031,Preacher Curl,1,39,6,8,Arms,234,
+01-06-2026,S_031,Preacher Curl,2,44,6,9,Arms,264,52.8
+01-06-2026,S_031,Preacher Curl,3,49,2,10,Arms,98,
+01-06-2026,S_031,French Press,1,29,12,7,Arms,348,
+01-06-2026,S_031,French Press,2,34,12,8,Arms,408,47.6
+01-06-2026,S_031,French Press,3,37,6,10,Arms,222,
+01-06-2026,S_031,Cable OH Pulldown,1,28.5,12,7,Arms,342,
+01-06-2026,S_031,Cable OH Pulldown,2,30,12,7,Arms,360,42
+01-06-2026,S_031,Cable OH Pulldown,3,30,8,8,Arms,240,
+01-06-2026,S_031,SA Cable Curl,1,13.5,8,6,Arms,108,
+01-06-2026,S_031,SA Cable Curl,2,15,8,8,Arms,120,
+01-06-2026,S_031,SA Cable Curl,3,16.5,8,10,Arms,132,20.9
+02-06-2026,S_032,BB Squat,1,60,6,6,Legs,360,
+02-06-2026,S_032,BB Squat,2,70,6,7,Legs,420,
+02-06-2026,S_032,BB Squat,3,80,6,8,Legs,480,
+02-06-2026,S_032,BB Squat,4,90,6,9,Legs,540,108
+02-06-2026,S_032,RDL,1,90,6,8,Legs,540,
+02-06-2026,S_032,RDL,2,110,6,9,Legs,660,
+02-06-2026,S_032,RDL,3,125,6,9.5,Legs,750,150
+02-06-2026,S_032,Calf Raise,1,60,6,7,Legs,360,
+02-06-2026,S_032,Calf Raise,2,70,8,8,Legs,560,
+02-06-2026,S_032,Calf Raise,3,80,8,9,Legs,640,
+02-06-2026,S_032,Calf Raise,4,85,8,9,Legs,680,107.6666667
+02-06-2026,S_032,Bulgarian Split Squat Cable,1,29,6,8.5,Legs,174,
+02-06-2026,S_032,Bulgarian Split Squat Cable,2,32,6,9.5,Legs,192,38.4
+02-06-2026,S_032,Leg Extension,1,100,6,8,Legs,600,
+02-06-2026,S_032,Leg Extension,2,109,6,10,Legs,654,130.8
+03-06-2026,S_033,Deadlift,1,70,6,5,Push,420,
+03-06-2026,S_033,Deadlift,2,70,6,5,Push,420,
+03-06-2026,S_033,Deadlift,3,70,6,5,Push,420,
+03-06-2026,S_033,Seated Shoulder Press,1,40,6,8,Push,240,
+03-06-2026,S_033,Seated Shoulder Press,2,45,6,8,Push,270,
+03-06-2026,S_033,Seated Shoulder Press,3,50,6,9,Push,300,
+03-06-2026,S_033,Seated Shoulder Press,4,53,5,10,Push,265,61.83333333
+03-06-2026,S_033,DB Chest Fly,1,27.5,6,9,Push,165,
+03-06-2026,S_033,DB Chest Fly,2,27.5,6,9.5,Push,165,33
+03-06-2026,S_033,Cable Lat Raise,1,7.5,6,8,Push,45,
+03-06-2026,S_033,Cable Lat Raise,2,7.5,6,8,Push,45,9
+03-06-2026,S_033,Bench Press,1,60,6,7,Push,360,
+03-06-2026,S_033,Bench Press,2,80,6,9,Push,480,96
+03-06-2026,S_033,Bench Press,3,60,9,10,Push,540,
+03-06-2026,S_033,DA C. Tricep Pushdown,1,22.5,6,8,Push,135,27
+03-06-2026,S_033,DA C. Tricep Pushdown,2,19.5,6,8,Push,117,
+03-06-2026,S_033,DA C. Tricep Pushdown,3,16.5,8,9,Push,132,
+03-06-2026,S_033,DA C. Tricep Pushdown,4,15,8,8,Push,120,
+03-06-2026,S_033,Preacher Curl,1,39,6,8,Push,234,
+03-06-2026,S_033,Preacher Curl,2,44,4,9,Push,176,
+03-06-2026,S_033,Preacher Curl,3,44,4,10,Push,176,49.86666667
+04-06-2026,S_034,Deadlift,1,70,4,7,Pull,280,
+04-06-2026,S_034,Deadlift,2,100,4,8,Pull,400,
+04-06-2026,S_034,Deadlift,3,120,4,9,Pull,480,136
+04-06-2026,S_034,BB Shrug,1,70,8,7,Pull,560,
+04-06-2026,S_034,BB Shrug,2,80,8,8,Pull,640,
+04-06-2026,S_034,BB Shrug,3,85,8,9,Pull,680,107.6666667
+04-06-2026,S_034,SA Cable Curl,1,12,10,8,Pull,120,
+04-06-2026,S_034,SA Cable Curl,2,15,8,9,Pull,120,19
+04-06-2026,S_034,Cable OH Pulldown,1,27,8,7,Pull,216,
+04-06-2026,S_034,Cable OH Pulldown,2,27,8,8,Pull,216,
+04-06-2026,S_034,Cable OH Pulldown,3,28.5,7,10,Pull,199.5,35.15
+04-06-2026,S_034,Cable Back Fly,1,7,8,9,Pull,56,8.866666667
+04-06-2026,S_034,Cable Back Fly,2,7,6,8,Pull,42,
+04-06-2026,S_034,Preacher Curl,1,29,6,8,Pull,174,
+04-06-2026,S_034,Preacher Curl,2,39,6,9,Pull,234,
+04-06-2026,S_034,Preacher Curl,3,49,2,10,Pull,98,52.26666667
+04-06-2026,S_034,Preacher Curl,4,29,16,10,Pull,464,
+04-06-2026,S_034,French Press,1,29,12,8,Pull,348,
+04-06-2026,S_034,French Press,2,29,12,9,Pull,348,40.6
+05-06-2026,S_035,Cable Wrist Curl,1,4.5,12,8,Arms,54,
+05-06-2026,S_035,Cable Wrist Curl,2,6,12,8,Arms,72,
+05-06-2026,S_035,Cable Wrist Curl,3,9,12,9,Arms,108,12.6
+05-06-2026,S_035,Cable Lat Raise,1,6,8,8,Arms,48,
+05-06-2026,S_035,Cable Lat Raise,2,6,8,8,Arms,48,
+05-06-2026,S_035,Cable Lat Raise,3,6,8,8,Arms,48,7.6
+05-06-2026,S_035,DB Preacher Hammer Curl,1,15,6,9,Arms,90,
+05-06-2026,S_035,DB Preacher Hammer Curl,2,15,6,10,Arms,90,
+05-06-2026,S_035,DB Preacher Hammer Curl,3,15,6,10,Arms,90,18
+05-06-2026,S_035,Cable Front Lat Raise,1,7.5,12,8,Arms,90,
+05-06-2026,S_035,Cable Front Lat Raise,2,7.5,12,9,Arms,90,10.5
+05-06-2026,S_035,SA Cable Curl,1,12,10,8,Arms,120,16
+05-06-2026,S_035,SA Cable Curl,2,10.5,10,9,Arms,105,14
+05-06-2026,S_035,Bench Press,1,48,12,3,Arms,576,67.2
+05-06-2026,S_035,Bench Press,2,60,8,5,Arms,480,76
+05-06-2026,S_035,Bench Press,3,70,8,9,Arms,560,88.66666667
+05-06-2026,S_035,Bench Press,4,60,6,10,Arms,360,72
+06-06-2026,S_036,Deadlift,1,70,6,7,Pull,420,
+06-06-2026,S_036,Deadlift,2,110,3,8,Pull,330,
+06-06-2026,S_036,Deadlift,3,140,1,8.5,Pull,140,144.6666667
+06-06-2026,S_036,Bench Press,1,60,8,7,Pull,480,
+06-06-2026,S_036,Bench Press,2,80,4,8,Pull,320,
+06-06-2026,S_036,Bench Press,3,80,4,9,Pull,320,90.66666667
+06-06-2026,S_036,Bench Press,4,60,12,8,Pull,720,
+06-06-2026,S_036,BB Shrug,1,70,12,1,Pull,840,
+06-06-2026,S_036,BB Shrug,2,90,12,8,Pull,1080,
+06-06-2026,S_036,BB Shrug,3,95,12,9.5,Pull,1140,133
+06-06-2026,S_036,Back Extension,1,25,8,6,Pull,200,
+06-06-2026,S_036,Back Extension,2,40,8,8,Pull,320,
+06-06-2026,S_036,Back Extension,3,50,8,9,Pull,400,63.33333333
+06-06-2026,S_036,Preacher Curl,1,29,12,8,Pull,348,40.6
+06-06-2026,S_036,Preacher Curl,2,29,8,9,Pull,232,36.73333333
+10-06-2026,S_037,Deadlift,1,70,6,6,Arms,420,
+10-06-2026,S_037,Deadlift,2,120,3,8,Arms,360,132
+10-06-2026,S_037,Bench Press,1,50,8,5,Arms,400,
+10-06-2026,S_037,Bench Press,2,70,3,5,Arms,210,
+10-06-2026,S_037,Bench Press,3,80,8,10,Arms,640,101.3333333
+10-06-2026,S_037,Bench Press,4,70,6,10,Arms,420,
+10-06-2026,S_037,DB Hammer Curl,1,15,8,6,Arms,120,
+10-06-2026,S_037,DB Hammer Curl,2,20,5,9,Arms,100,23.33333333
+10-06-2026,S_037,DB Hammer Curl,3,17.5,8,9,Arms,140,
+10-06-2026,S_037,French Press,1,29,8,6,Arms,232,
+10-06-2026,S_037,French Press,2,32,12,8.5,Arms,384,44.8
+10-06-2026,S_037,Preacher Curl,1,32,12,9,Arms,384,
+10-06-2026,S_037,Preacher Curl,2,32,15,10,Arms,480,48
+11-06-2026,S_038,BB Row,1,50,8,6,Pull,400,
+11-06-2026,S_038,BB Row,2,60,8,7,Pull,480,
+11-06-2026,S_038,BB Row,3,65,8,8,Pull,520,82.33333333
+11-06-2026,S_038,BB Shrug,1,65,12,6,Pull,780,
+11-06-2026,S_038,BB Shrug,2,70,12,7,Pull,840,
+11-06-2026,S_038,BB Shrug,3,80,12,8,Pull,960,112
+11-06-2026,S_038,SA Cable Curl,1,12,8,5,Pull,96,
+11-06-2026,S_038,SA Cable Curl,2,13.5,8,8,Pull,108,
+11-06-2026,S_038,SA Cable Curl,3,15,6,8,Pull,90,18
+11-06-2026,S_038,DA Cable Pushdown,1,21,8,5,Pull,168,
+11-06-2026,S_038,DA Cable Pushdown,2,25.5,8,7,Pull,204,
+11-06-2026,S_038,DA Cable Pushdown,3,28.5,8,8.5,Pull,228,36.1
+11-06-2026,S_038,Cable Back Fly,1,7,8,8,Pull,56,
+11-06-2026,S_038,Cable Back Fly,2,7,8,9,Pull,56,8.866666667
+11-06-2026,S_038,Cable Back Fly,3,5,12,9,Pull,60,
+11-06-2026,S_038,Cable OH Pulldown,1,28.5,6,9,Pull,171,
+11-06-2026,S_038,Cable OH Pulldown,2,27,8,9,Pull,216,34.2
+11-06-2026,S_038,Cable OH Pulldown,3,25.5,7,9,Pull,178.5,
+11-06-2026,S_038,Preacher Curl,1,39,6,9,Pull,234,46.8
+11-06-2026,S_038,Preacher Curl,2,39,5,9,Pull,195,45.5
+11-06-2026,S_038,Preacher Curl,3,29,12,8,Pull,348,40.6
+13-06-2026,S_039,Seated Shoulder Press,1,40,8,7,Push,320,
+13-06-2026,S_039,Seated Shoulder Press,2,50,8,8,Push,400,63.33333333
+13-06-2026,S_039,Seated Shoulder Press,3,53,5,10,Push,265,
+13-06-2026,S_039,Cable Lat Raise,1,6,8,7,Push,48,
+13-06-2026,S_039,Cable Lat Raise,2,6,8,8,Push,48,
+13-06-2026,S_039,Cable Lat Raise,3,6,8,8,Push,48,7.6
+13-06-2026,S_039,BB Incline Bench Press,1,60,6,8,Push,360,
+13-06-2026,S_039,BB Incline Bench Press,2,60,6,9,Push,360,72
+13-06-2026,S_039,BB Incline Bench Press,3,60,5,10,Push,300,
+13-06-2026,S_039,SA Cable Pushdown,1,10.5,12,9,Push,126,
+13-06-2026,S_039,SA Cable Pushdown,2,10.5,12,9,Push,126,14.7
+13-06-2026,S_039,SA Cable Pushdown,3,9,12,9,Push,108,
+13-06-2026,S_039,Seated Chest Fly,1,57,8,8,Push,456,
+13-06-2026,S_039,Seated Chest Fly,2,62,8,9,Push,496,
+13-06-2026,S_039,Seated Chest Fly,3,66,8,9,Push,528,83.6
+13-06-2026,S_039,French Press,1,29,12,9,Push,348,40.6
+13-06-2026,S_039,French Press,2,29,9,10,Push,261,37.7
+15-06-2026,S_040,Deadlift,1,70,6,4,Pull,420,
+15-06-2026,S_040,Deadlift,2,110,6,8,Pull,660,
+15-06-2026,S_040,Deadlift,3,110,6,9,Pull,660,
+15-06-2026,S_040,BB Row,1,70,8,6,Pull,560,
+15-06-2026,S_040,BB Row,2,80,8,8,Pull,640,
+15-06-2026,S_040,BB Row,3,90,8,9,Pull,720,114
+15-06-2026,S_040,Cable Archer Pull,1,15,8,8,Pull,120,
+15-06-2026,S_040,Cable Archer Pull,2,16.5,8,9,Pull,132,20.9
+15-06-2026,S_040,Cable Archer Pull,3,13.5,8,8,Pull,108,
+15-06-2026,S_040,DA Cable Curl,1,27,8,7,Pull,216,
+15-06-2026,S_040,DA Cable Curl,2,30,8,8,Pull,240,
+15-06-2026,S_040,DA Cable Curl,3,33,7,9,Pull,231,40.7
+15-06-2026,S_040,Cable OH Pulldown,1,25.5,12,8,Pull,306,35.7
+15-06-2026,S_040,Cable OH Pulldown,2,27,8,9,Pull,216,
+15-06-2026,S_040,Cable OH Pulldown,3,27,7,10,Pull,189,
+15-06-2026,S_040,Cable Back Fly,1,7,11,9,Pull,77,9.566666667
+15-06-2026,S_040,Cable Back Fly,2,5,12,9,Pull,60,
+15-06-2026,S_040,Cable Back Fly,3,5,12,10,Pull,60,
+15-06-2026,S_040,Preacher Curl,1,29,8,3,Pull,232,
+15-06-2026,S_040,Preacher Curl,2,39,6,8,Pull,234,
+15-06-2026,S_040,Preacher Curl,3,42,4,10,Pull,168,47.6
+15-06-2026,S_040,Preacher Curl,4,29,4,8,Pull,116,32.86666667
+15-06-2026,S_040,Preacher Curl,5,19,16,9,Pull,304,29.13333333
+15-06-2026,S_040,Preacher Curl,6,19,12,9,Pull,228,26.6
+17-06-2026,S_041,Deadlift,1,70,6,3,Push,420,
+17-06-2026,S_041,Deadlift,2,90,6,5,Push,540,
+17-06-2026,S_041,Deadlift,3,90,6,6,Push,540,
+17-06-2026,S_041,Bench Press,1,60,6,4,Push,360,
+17-06-2026,S_041,Bench Press,2,80,6,9,Push,480,96
+17-06-2026,S_041,Bench Press,3,75,6,9,Push,450,
+17-06-2026,S_041,Bench Press,4,70,8,8,Push,560,
+17-06-2026,S_041,Bench Press,5,60,10,9,Push,600,
+17-06-2026,S_041,DB Lat Raise,1,10,8,7,Push,80,
+17-06-2026,S_041,DB Lat Raise,2,10,8,8,Push,80,
+17-06-2026,S_041,DB Lat Raise,3,10,8,8,Push,80,12.66666667
+17-06-2026,S_041,French Press,1,34,8,8,Push,272,
+17-06-2026,S_041,French Press,2,34,8,8,Push,272,
+17-06-2026,S_041,French Press,3,37,6,9,Push,222,44.4
+17-06-2026,S_041,Seated Cable Chest Fly,1,18,6,8,Push,108,
+17-06-2026,S_041,Seated Cable Chest Fly,2,20,6,9,Push,120,
+17-06-2026,S_041,Seated Cable Chest Fly,3,20,6,10,Push,120,24
+17-06-2026,S_041,Cable Front Lat Raise,1,12,12,8,Push,144,
+17-06-2026,S_041,Cable Front Lat Raise,2,12,12,8,Push,144,16.8
+17-06-2026,S_041,DA Cable Curl,1,25,8,7,Push,200,
+17-06-2026,S_041,DA Cable Curl,2,30,8,9,Push,240,38
+18-06-2026,S_042,Deadlift,1,70,6,3,Pull,420,
+18-06-2026,S_042,Deadlift,2,110,6,8,Pull,660,
+18-06-2026,S_042,Deadlift,3,130,2,9,Pull,260,138.6666667
+18-06-2026,S_042,Preacher Curl,1,29,8,5,Pull,232,
+18-06-2026,S_042,Preacher Curl,2,39,8,9,Pull,312,49.4
+18-06-2026,S_042,Preacher Curl,3,29,6,10,Pull,174,
+18-06-2026,S_042,Smith Machine Row,1,50,8,4,Pull,400,
+18-06-2026,S_042,Smith Machine Row,2,80,8,8,Pull,640,
+18-06-2026,S_042,Smith Machine Row,3,80,8,8,Pull,640,101.3333333
+18-06-2026,S_042,Lat Pulldown,1,45,8,4,Pull,360,
+18-06-2026,S_042,Lat Pulldown,2,73,8,8,Pull,584,
+18-06-2026,S_042,Lat Pulldown,3,82,6,9,Pull,492,98.4
+18-06-2026,S_042,SA Cable Curl,1,12,12,8,Pull,144,
+18-06-2026,S_042,SA Cable Curl,2,13.5,10,10,Pull,135,18
+18-06-2026,S_042,Cable OH Pulldown,1,27,8,8,Pull,216,
+18-06-2026,S_042,Cable OH Pulldown,2,27,11,9,Pull,297,36.9
+18-06-2026,S_042,Cable Archer Pull,1,15,8,8,Pull,120,19
+18-06-2026,S_042,Cable Archer Pull,2,13.5,8,8,Pull,108,
+18-06-2026,S_042,DB Preacher Hammer Curl,1,15,8,8,Pull,120,
+18-06-2026,S_042,DB Preacher Hammer Curl,2,15,8,8,Pull,120,19
+19-06-2026,S_043,BB Squat,1,60,6,5,Legs,360,
+19-06-2026,S_043,BB Squat,2,80,6,7,Legs,480,
+19-06-2026,S_043,BB Squat,3,80,6,8,Legs,480,96
+19-06-2026,S_043,Calf Raise,1,60,8,2,Legs,480,
+19-06-2026,S_043,Calf Raise,2,70,8,8,Legs,560,
+19-06-2026,S_043,Calf Raise,3,75,12,9,Legs,900,
+19-06-2026,S_043,Calf Raise,4,75,12,10,Legs,900,105
+19-06-2026,S_043,Leg Press,1,50,8,3,Legs,400,
+19-06-2026,S_043,Leg Press,2,100,6,8,Legs,600,
+19-06-2026,S_043,Leg Press,3,120,6,9,Legs,720,144
+19-06-2026,S_043,Back Extension,1,25,8,7,Legs,200,
+19-06-2026,S_043,Back Extension,2,35,8,9,Legs,280,44.33333333
+19-06-2026,S_043,Leg Extension,1,100,6,8,Legs,600,
+19-06-2026,S_043,Leg Extension,2,109,6,9,Legs,654,130.8
+19-06-2026,S_043,Leg Extension,3,79,8,10,Legs,632,
+19-06-2026,S_043,Hip Adductor,1,32,8,8,Legs,256,
+19-06-2026,S_043,Hip Adductor,2,32,10,10,Legs,320,42.66666667
+19-06-2026,S_043,Hip Abduction,3,23,8,7,Legs,184,
+19-06-2026,S_043,Hip Abduction,4,27,12,9,Legs,324,37.8
+23-06-2026,S_044,Bench Press,1,60,8,4,Arms,480,
+23-06-2026,S_044,Bench Press,2,70,8,8,Arms,560,
+23-06-2026,S_044,Bench Press,3,80,4,9,Arms,320,90.66666667
+23-06-2026,S_044,Bench Press,4,60,12,9,Arms,720,
+23-06-2026,S_044,Preacher Curl,1,19,12,7,Arms,228,
+23-06-2026,S_044,Preacher Curl,2,29,8,8,Arms,232,
+23-06-2026,S_044,Preacher Curl,3,34,8,8,Arms,272,43.06666667
+23-06-2026,S_044,Preacher Curl,4,29,5,9,Arms,145,
+23-06-2026,S_044,French Press,1,29,12,6,Arms,348,
+23-06-2026,S_044,French Press,2,32,12,8,Arms,384,44.8
+23-06-2026,S_044,DB Chest Fly,1,22.5,8,7,Arms,180,
+23-06-2026,S_044,DB Chest Fly,2,22.5,8,9,Arms,180,28.5
+23-06-2026,S_044,DB Hammer Curl,1,17.5,8,8,Arms,140,22.16666667
+23-06-2026,S_044,DB Hammer Curl,2,17.5,5,9,Arms,87.5,20.41666667
+24-06-2026,S_045,Deadlift,1,70,6,4,Pull,420,
+24-06-2026,S_045,Deadlift,2,70,6,4,Pull,420,
+24-06-2026,S_045,Deadlift,3,70,6,5,Pull,420,
+24-06-2026,S_045,BB Shrug,1,70,8,6,Pull,560,
+24-06-2026,S_045,BB Shrug,2,75,8,7,Pull,600,
+24-06-2026,S_045,BB Shrug,3,80,8,8,Pull,640,101.3333333
+24-06-2026,S_045,DB Preacher Hammer Curl,1,15,8,7,Pull,120,
+24-06-2026,S_045,DB Preacher Hammer Curl,2,15,8,8,Pull,120,19
+24-06-2026,S_045,Cable OH Pulldown,1,28.5,8,8,Pull,228,
+24-06-2026,S_045,Cable OH Pulldown,2,28.5,8,9,Pull,228,
+24-06-2026,S_045,Cable OH Pulldown,3,28.5,8,10,Pull,228,36.1
+24-06-2026,S_045,DA Cable Curl,1,28.5,8,8,Pull,228,
+24-06-2026,S_045,DA Cable Curl,2,30,8,9,Pull,240,
+24-06-2026,S_045,DA Cable Curl,3,30,8,10,Pull,240,38
+24-06-2026,S_045,Cable Back Fly,1,7,12,8,Pull,84,
+24-06-2026,S_045,Cable Back Fly,2,7,12,8,Pull,84,
+24-06-2026,S_045,Cable Back Fly,3,7,12,9,Pull,84,9.8
+24-06-2026,S_045,Preacher Curl,1,39,7,10,Pull,273,48.1
+25-05-2026,S_046,Seated Shoulder Press,1,50,6,6,Push,300,
+25-05-2026,S_046,Seated Shoulder Press,2,53,6,8,Push,318,63.6
+25-05-2026,S_046,Seated Shoulder Press,3,55,4,9,Push,220,
+25-05-2026,S_046,Seated Cable Chest Fly,1,18,8,9,Push,144,22.8
+25-05-2026,S_046,Seated Cable Chest Fly,2,18,6,9,Push,108,
+25-05-2026,S_046,Seated Cable Chest Fly,3,18,5,10,Push,90,
+25-05-2026,S_046,SA Cable Pushdown,1,10.5,12,8,Push,126,14.7
+25-05-2026,S_046,French Press,1,34,8,6,Push,272,
+25-05-2026,S_046,French Press,2,34,8,7,Push,272,
+25-05-2026,S_046,French Press,3,34,8,9,Push,272,43.06666667
+25-05-2026,S_046,Cable Lat Raise,1,7,12,7,Push,84,
+25-05-2026,S_046,Cable Lat Raise,2,7,12,8,Push,84,
+25-05-2026,S_046,Cable Lat Raise,3,7,12,9,Push,84,9.8
+25-05-2026,S_046,Cable Front Lat Raise,1,18,6,7,Push,108,21.6
+25-05-2026,S_046,Cable Front Lat Raise,2,15,8,8,Push,120,
+25-05-2026,S_046,DB Incline Bench Press,1,25,12,7,Push,300,35
+25-05-2026,S_046,DB Incline Bench Press,2,25,10,9,Push,250,33.33333333
+25-05-2026,S_046,DB Incline Bench Press,3,25,6,9,Push,150,30
+26-06-2026,S_047,Bench Press,1,60,6,2,Arms,360,
+26-06-2026,S_047,Bench Press,2,70,3,5,Arms,210,
+26-06-2026,S_047,Bench Press,3,80,7,10,Arms,560,98.66666667
+26-06-2026,S_047,Bench Press,4,70,8,9,Arms,560,
+26-06-2026,S_047,DB Lat Raise,1,7.5,12,8,Arms,90,
+26-06-2026,S_047,DB Lat Raise,2,7.5,12,8,Arms,90,
+26-06-2026,S_047,DB Lat Raise,3,10,10,10,Arms,100,13.33333333
+26-06-2026,S_047,Lat Pulldown,1,81,8,7,Arms,648,
+26-06-2026,S_047,Lat Pulldown,2,86,8,8,Arms,688,
+26-06-2026,S_047,Lat Pulldown,3,91,6,10,Arms,546,109.2
+26-06-2026,S_047,Cable Wrist Curl,1,19.5,12,4,Arms,234,
+26-06-2026,S_047,Cable Wrist Curl,2,19.5,12,6,Arms,234,
+26-06-2026,S_047,Cable Wrist Curl,3,22.5,16,10,Arms,360,34.5
+26-06-2026,S_047,Cable OH Pulldown,1,28.5,12,8,Arms,342,39.9
+26-06-2026,S_047,Cable OH Pulldown,2,28.5,7,9,Arms,199.5,35.15
+26-06-2026,S_047,Cable OH Pulldown,3,27,8,9,Arms,216,34.2
+26-06-2026,S_047,Preacher Curl,1,29,12,7,Arms,348,40.6
+26-06-2026,S_047,Preacher Curl,2,34,10,9,Arms,340,45.33333333
+27-06-2026,S_048,Deadlift,1,70,6,3,Legs,420,
+27-06-2026,S_048,Deadlift,2,110,3,7,Legs,330,
+27-06-2026,S_048,Deadlift,3,130,2,9,Legs,260,138.6666667
+27-06-2026,S_048,Hip Thrust,1,130,6,8,Legs,780,
+27-06-2026,S_048,Hip Thrust,2,130,8,9,Legs,1040,
+27-06-2026,S_048,Hip Thrust,3,130,8,10,Legs,1040,164.6666667
+27-06-2026,S_048,Hamstring Curl,1,36,12,8,Legs,432,
+27-06-2026,S_048,Hamstring Curl,2,45,16,9,Legs,720,69
+27-06-2026,S_048,Hamstring Curl,3,39,12,8,Legs,468,
+27-06-2026,S_048,Hip Adductor,1,32,8,7,Legs,256,
+27-06-2026,S_048,Hip Adductor,2,32,8,8,Legs,256,
+27-06-2026,S_048,Hip Adductor,3,36,8,10,Legs,288,45.6
+27-06-2026,S_048,Hip Abduction,1,27,8,7,Legs,216,
+27-06-2026,S_048,Hip Abduction,2,32,8,9,Legs,256,40.53333333
+27-06-2026,S_048,Hip Abduction,3,27,12,9,Legs,324,
+27-06-2026,S_048,Cable Crunch,1,22.5,12,8,Legs,270,
+27-06-2026,S_048,Cable Crunch,2,27.5,12,9,Legs,330,
+27-06-2026,S_048,Cable Crunch,3,31.5,12,10,Legs,378,44.1
+28-06-2026,S_049,Deadlift,1,70,6,4,Arms,420,
+28-06-2026,S_049,Deadlift,2,70,6,4,Arms,420,
+28-06-2026,S_049,BB Row,1,70,6,5,Arms,420,84
+28-06-2026,S_049,BB Row,2,60,8,7,Arms,480,
+28-06-2026,S_049,BB Row,3,63,8,8,Arms,504,
+28-06-2026,S_049,Bench Press,1,60,6,4,Arms,360,
+28-06-2026,S_049,Bench Press,2,80,5,8,Arms,400,93.33333333
+28-06-2026,S_049,Bench Press,3,80,3,9,Arms,240,
+28-06-2026,S_049,Bench Press,4,60,12,10,Arms,720,
+28-06-2026,S_049,DB Hammer Curl,1,17.5,8,8,Arms,140,
+28-06-2026,S_049,DB Hammer Curl,2,20,4,10,Arms,80,22.66666667
+28-06-2026,S_049,DB Hammer Curl,3,15,12,10,Arms,180,
+28-06-2026,S_049,DB Lat Raise,1,10,8,7,Arms,80,
+28-06-2026,S_049,DB Lat Raise,2,10,12,10,Arms,120,14
+28-06-2026,S_049,Lat Pulldown,1,57,12,4,Arms,684,
+28-06-2026,S_049,Lat Pulldown,2,66,12,7,Arms,792,
+28-06-2026,S_049,Lat Pulldown,3,84,6,8,Arms,504,100.8
+28-06-2026,S_049,Preacher Curl,1,19,12,4,Arms,228,
+28-06-2026,S_049,Preacher Curl,2,29,8,8,Arms,232,
+28-06-2026,S_049,Preacher Curl,3,29,11,9,Arms,319,39.63333333
