@@ -1,7 +1,5 @@
 # Gym Strength Analytics Dashboard (Built in R)
 
-## Final Dashboard Deliverable
-![Final Strength Dashboard](final_strength_dashboard.png)
 
 ## Project Overview
 This project establishes an end-to-end data analytics pipeline to transform unstructured fitness log data into a predictive multi-facet time-series visualization. By utilizing R and `ggplot2`, the system tracks peak estimated 1-Repetition Maximums (1RM) across four specific muscular movements, checks athletic capacity against empirical population baselines, and projects performance horizons using standard linear modeling.
